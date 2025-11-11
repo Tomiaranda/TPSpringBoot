@@ -49,13 +49,18 @@ Incluye **inyección de dependencias**, **configuración externa**, **profiles d
 
 Conclusiones
 Se aplicaron correctamente los principios de Spring Boot y la inyección de dependencias.
+
 Se configuraron dos perfiles de entorno (dev y prod) usando @Profile.
+
 La aplicación demuestra un flujo completo de negocio, con tareas agregadas, listadas y completadas.
+
 El sistema es completamente configurable y extensible gracias al uso de propiedades externas.
 
- Autor
+ Autor:
 Tomás Aranda
+
 Estudiante de Ingeniería en Sistemas – UTN FRM
+
 📍 Mendoza, Argentina
 
 
