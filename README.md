@@ -57,8 +57,9 @@ Conclusiones
 
 .El sistema es completamente configurable y extensible gracias al uso de propiedades externas.
 
- Autor:
-Tomás Aranda
+ Autor:Tomás Aranda
+
+ Legajo:50766
 
 Estudiante de Ingeniería en Sistemas – UTN FRM
 
