@@ -36,7 +36,9 @@ Incluye **inyección de dependencias**, **configuración externa**, **profiles d
    spring.profiles.active=prod
  
    Ejecutá la aplicación con Run ▶ TareasApplication.
+   
    CAPTURA DE LA CONSOLA EN LOS DOS PROFILES
+   
    Profile=PROD
 <img width="711" height="543" alt="image" src="https://github.com/user-attachments/assets/fe7831fc-f4f8-42ed-88f8-7d868dfd5344" />
 
